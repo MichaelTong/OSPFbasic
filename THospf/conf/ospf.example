@@ -1,0 +1,8 @@
+===THospf Config File===
+Rid= x.x.x.x
+Ifcs= n+1
+Interface= eth0
+Interface= eth1
+...
+Interface= ethn
+
